@@ -1,0 +1,15 @@
+E:\C# Basic\bin\Debug\net6.0\C# Basic.exe
+E:\C# Basic\bin\Debug\net6.0\C# Basic.deps.json
+E:\C# Basic\bin\Debug\net6.0\C# Basic.runtimeconfig.json
+E:\C# Basic\bin\Debug\net6.0\C# Basic.dll
+E:\C# Basic\bin\Debug\net6.0\C# Basic.pdb
+E:\C# Basic\obj\Debug\net6.0\C# Basic.csproj.AssemblyReference.cache
+E:\C# Basic\obj\Debug\net6.0\C# Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Basic\obj\Debug\net6.0\C# Basic.AssemblyInfoInputs.cache
+E:\C# Basic\obj\Debug\net6.0\C# Basic.AssemblyInfo.cs
+E:\C# Basic\obj\Debug\net6.0\C# Basic.csproj.CoreCompileInputs.cache
+E:\C# Basic\obj\Debug\net6.0\C# Basic.dll
+E:\C# Basic\obj\Debug\net6.0\refint\C# Basic.dll
+E:\C# Basic\obj\Debug\net6.0\C# Basic.pdb
+E:\C# Basic\obj\Debug\net6.0\C# Basic.genruntimeconfig.cache
+E:\C# Basic\obj\Debug\net6.0\ref\C# Basic.dll
