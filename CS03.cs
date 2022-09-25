@@ -1,4 +1,4 @@
-// CS04 - Các toán tử so sánh, logic trong C#, lập trình C# .NET Core cơ bản
+// CS03 - Các toán tử tính toán số học trong C# toán tử gán và tăng giảm, lập trình C# .NET Core
 
 using System;
 
