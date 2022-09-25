@@ -1,3 +1,5 @@
+// CS04 - Các toán tử so sánh, logic trong C#, lập trình C# .NET Core cơ bản
+
 using System;
 
 namespace CS03
